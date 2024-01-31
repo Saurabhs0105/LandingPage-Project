@@ -1,6 +1,6 @@
 # Landing Page Clone Project!
 
-# Landing Page Clone : https://www.youtube.com/channel/UCG7B2ZgOsX5qAT8S2bOUz3w
+Landing PageLink: https://www.youtube.com/channel/UCG7B2ZgOsX5qAT8S2bOUz3w
 
 # Website : [Cynthia Ugwu's Original Website](https://www.cynthiaugwu.com/)
 
