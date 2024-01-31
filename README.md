@@ -13,4 +13,4 @@
 
 - Share insights into the HTML, CSS, and JavaScript concepts you applied.
   <br>
-  -Discuss any challenges overcome during the development process.
+  #webdevelopment #html #css #javascript #animations #cynthiaugwu #webdesign #coding #developer
